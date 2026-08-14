@@ -18,3 +18,8 @@ how to create a new directory
        |_> To add all files to staging area.
             |_> git add . //use this to save all unmodified files to stageing area. instead of git add {file name}.
             
+Learn about branches
+1.  To List out the branches.
+       |_> git branch -a //list out all branches eg gitbranch1
+2.  To move to a branch in vs code.
+       |_> git checkout {branch name} // eg git checkout gitbranch1
