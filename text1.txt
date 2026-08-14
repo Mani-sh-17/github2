@@ -27,4 +27,8 @@ Learn about branches
 4.  To find the difference between main and branch.
        |_> go to main branch. // eg git checkout main
        |_> git diff {branch name} // eg git diff git-branch1
+5.   To merge main and a branch.
+       |_> git merge {branch name} // eg git merge git-branch1
+6.   To create a new branch
+       |_> git branch {new branch name} //eg git branch git-branch2
        
