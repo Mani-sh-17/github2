@@ -1,0 +1,20 @@
+how to create a new directory
+
+1.  create a folder in your desktop
+2.  change the current directory to that folder.
+       |_> cd .. // used to move make to previous folder of the directory
+       |_> cd " " // give the folder name in quotes . eg cd "youtube git"
+3.  To initialise a git folder for you folder.
+       |_> git init
+       |_> then check the status. eg git status
+4.  create a text files or html or css you need to work.
+5.  go to github and create a new repository and just copy a link.
+       |_>git remote add origin  {paste the link}
+       |_> now check the branch. 
+            |_>git branch  // to gives branch name master.if you like this you can use this name.else
+            |_>git branch -M main //changed the name to main.now you can use main.
+6.  now you can work normally and the connection is established.
+       |_>create many files and work.
+       |_> To add all files to staging area.
+            |_> git add . //use this to save all unmodified files to stageing area. instead of git add {file name}.
+            
