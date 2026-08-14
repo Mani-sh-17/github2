@@ -32,3 +32,6 @@ Learn about branches
 6.   To create a new branch
        |_> git branch {new branch name} //eg git branch git-branch2
        
+       6.1  To update it in github repository,we dont have git-branch2 in it.but we can update.
+              |_> git push origin {new branch name} // eg git push origin git-branch2
+
