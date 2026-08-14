@@ -23,3 +23,8 @@ Learn about branches
        |_> git branch -a //list out all branches eg gitbranch1
 2.  To move to a branch in vs code.
        |_> git checkout {branch name} // eg git checkout gitbranch1
+3.  We use branches to spilt the work amoung members. and can merge them when needed in practical.
+4.  To find the difference between main and branch.
+       |_> go to main branch. // eg git checkout main
+       |_> git diff {branch name} // eg git diff git-branch1
+       
